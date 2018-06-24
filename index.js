@@ -17,10 +17,10 @@ function dec(n){
   return --n
 }
 function makeInt(n){
-  return parseInt(n,10)
+  return parseInt('n',10)
 }
 function makeInt(n){
-  return parseFloat(n,10)
+  return parseFloat('n',10)
 }
 function makeInt(n){
   return parseInt('nonsense!',10)
