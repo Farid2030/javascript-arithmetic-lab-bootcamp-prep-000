@@ -22,8 +22,6 @@ function makeInt(n){
 function makeInt(n){
   return parseFloat('n',10)
 }
-function makeInt(n){
-  return parseInt('nonsense!',10)
-}
+
 
 
