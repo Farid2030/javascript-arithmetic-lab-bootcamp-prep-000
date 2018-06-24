@@ -1,3 +1,3 @@
-
-
-console.log(parseFloat('80.123999'))
+function add(){
+  
+}
