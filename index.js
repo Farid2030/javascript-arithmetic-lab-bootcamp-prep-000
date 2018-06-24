@@ -22,7 +22,7 @@ function makeInt(n){
 function makeInt(n){
   return parseFloat(n)
 }
-function makeInt(){
+function makeInt(n){
   return parseInt('nonsense!')
 }
 
