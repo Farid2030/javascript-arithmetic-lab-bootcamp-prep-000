@@ -22,7 +22,7 @@ function makeInt(n){
 function makeInt(n){
   return parseFloat(n)
 }
-function isNaN(){
+function makeInt(){
   return parseInt('nonsense!', 10)
 }
 
