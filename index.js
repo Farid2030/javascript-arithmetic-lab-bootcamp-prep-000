@@ -13,6 +13,6 @@ function divide(a, b){
 function inc(n){
   return n++
 }
-console.log(inc(1))
+console.log(inc(2))
 
 
